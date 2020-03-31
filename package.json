@@ -1,0 +1,12 @@
+{
+  "name": "TIC-TAC-TOE",
+  "version": "1.0.0",
+  "description": "2-player tic tac toe game",
+  "main": "main.js",
+  "scripts": {
+  	"test": "echo \"Error: no test specified\" && exit 1",
+  	"start": "electron ."
+  },
+  "author": "Neh@",
+  "license": "ISC"
+}
