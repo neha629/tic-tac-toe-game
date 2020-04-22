@@ -1,12 +1,15 @@
 {
-  "name": "TIC-TAC-TOE",
+  "name": "tic_tac_toe",
   "version": "1.0.0",
-  "description": "2-player tic tac toe game",
-  "main": "main.js",
+  "description": "",
+  "main": "script.js",
   "scripts": {
-  	"test": "echo \"Error: no test specified\" && exit 1",
-  	"start": "electron ."
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Neh@",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1"
+  }
 }
